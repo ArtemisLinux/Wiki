@@ -1,5 +1,5 @@
 
-Instalation
+Installation
 =====
 
 .. _installation:
