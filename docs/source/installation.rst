@@ -4,8 +4,10 @@ Installation
 
 .. _installation:
 
-Installation
-------------
+.. note::
 
-Coming Soon
------------
+   This project is under active development.
+
+.. note::
+
+   Page coming soon
